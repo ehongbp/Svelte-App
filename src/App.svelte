@@ -14,6 +14,8 @@
 	const handleAdd =(e)=>{
 		activeItem='Current Polls';
 	}
+	
+
 </script>
 
 <Header />
